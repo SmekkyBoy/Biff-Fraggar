@@ -163,6 +163,6 @@ PISGB0	-113	-90
 PISGC0	-124	-95
 
 [patches]
-ZZWOLF7
+ZZWOLF7 # Placeholder map text
 
 # End of extraction
