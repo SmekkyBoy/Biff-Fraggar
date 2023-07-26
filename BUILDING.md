@@ -1,6 +1,5 @@
-Building on Windows
--
-To build this project on Windows, simply run the "build.bat" file.
+To build, Windows users can run **build.bat**.
+Linux users can run **build.sh** in Bash; however, this requires Wine to be installed!
 
 Thanks to Freedoom developers for the wad that deutex needs.
 
