@@ -558,4 +558,7 @@ WALL51_3
 WALL51_1
 WALL51_2
 
+[lumps]
+DEHACKED
+
 # End of extraction
