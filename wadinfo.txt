@@ -17,10 +17,14 @@ DSPISTOL
 DSPODTH1
 DSPODTH2
 DSPODTH3
+DSPLPAIN
+DSPLDETH
+DSPDIEHI
 
 # List of Musics
 [musics]
 D_E1M1
+D_E1M2
 D_INTRO
 
 # List of Pictures (with insertion point)
@@ -161,32 +165,6 @@ PISFA0	-144	-73
 PISGA0	-126	-103
 PISGB0	-113	-90
 PISGC0	-124	-95
-
-# End of extraction
-# DeuTex 5.2.2
-# PWAD creation directives
-
-# List of levels
-[levels]
-E1M1
-
-# List of Sounds
-[sounds]
-DSPOPAIN
-DSPOSACT
-DSPOSIT1
-DSPOSIT2
-DSSHOTGN
-DSPOSIT3
-DSPISTOL
-DSPODTH1
-DSPODTH2
-DSPODTH3
-
-# List of Musics
-[musics]
-D_E1M1
-D_INTRO
 
 # List of Pictures (with insertion point)
 [graphics]
