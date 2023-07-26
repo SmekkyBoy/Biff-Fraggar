@@ -1,0 +1,6 @@
+﻿André Majorel <amajorel@teaser.fr>
+Ayub Ahmed <ayubahmed2240@gmail.com>
+Jon Dowland <jmtd@debian.org>
+Mike Swanson <mikeonthecomputer@gmail.com>
+Nick Zatkovich <NZatkovich@gmail.com>
+Olivier Montanuy <Olivier.Montanuy@wanadoo.fr>
