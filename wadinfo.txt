@@ -26,6 +26,7 @@ DSPDIEHI
 D_E1M1
 D_E1M2
 D_INTRO
+D_INTER
 
 # List of Pictures (with insertion point)
 [graphics]
