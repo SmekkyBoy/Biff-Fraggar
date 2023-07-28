@@ -4,6 +4,7 @@
 # List of levels
 [levels]
 E1M1
+E1M3
 E1M9
 
 # List of Sounds
