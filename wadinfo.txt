@@ -4,6 +4,8 @@
 # List of levels
 [levels]
 E1M1
+E1M3
+E1M9
 
 # List of Sounds
 [sounds]
@@ -25,6 +27,7 @@ DSPDIEHI
 [musics]
 D_E1M1
 D_E1M2
+D_E1M4
 D_INTRO
 D_INTER
 
