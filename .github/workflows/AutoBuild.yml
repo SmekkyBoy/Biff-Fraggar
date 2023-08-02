@@ -6,8 +6,7 @@ jobs:
     steps:
     - name: Build the WAD
       run: |
-        git remote add Biff-Fraggar https://github.com/rostuhan/Biff-Fraggar.git
-        git fetch --all
+        git clone https://github.com/rostuhan/Biff-Fraggar.git
         cd Biff-Fraggar
         BUILD.bat
     - name: Upload a Build Artifact
