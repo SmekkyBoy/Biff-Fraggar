@@ -6,9 +6,9 @@ jobs:
     steps:
     - name: Build the WAD
       run: |
-        dir
-        tree
-        build.bat
+        git clone https://github.com/rostuhan/Biff-Fraggar.git
+        cd Biff-Fraggar
+        cmd.exe build.bat
     - name: Upload a Build Artifact
       uses: actions/upload-artifact@v1
       with:
