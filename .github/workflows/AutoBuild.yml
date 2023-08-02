@@ -8,6 +8,8 @@ jobs:
       run: |
         git clone https://github.com/rostuhan/Biff-Fraggar.git
         cd Biff-Fraggar
+        dir
+        tree
         build.bat
     - name: Upload a Build Artifact
       uses: actions/upload-artifact@v1
