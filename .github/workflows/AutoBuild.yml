@@ -7,7 +7,7 @@ jobs:
     - uses: actions/checkout@v3
     - name: Build the WAD
       run: |
-        git clone https://github.com/rostuhan/Biff-Fraggar.git
+        git clone https://github.com/SmekkyBoy/Biff-Fraggar.git # THIS REPOSITORY
         cd Biff-Fraggar
         cmd.exe build.bat
     - name: Upload a Build Artifact
