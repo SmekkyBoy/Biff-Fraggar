@@ -6,7 +6,11 @@ jobs:
     steps:
     - name: Build the WAD
       run: |
+        dir
+        tree
         git clone https://github.com/rostuhan/Biff-Fraggar.git
+        dir
+        tree
         cd Biff-Fraggar
         dir
         tree
