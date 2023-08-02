@@ -1,0 +1,16 @@
+name: Auto Build
+on: [push, pull_request]
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+    - name: Build the WAD
+      run: |
+        dir
+        tree
+        BUILD.bat
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v1
+      with:
+        name: "BIFF_FRAGGAR1"
+        path: "BIFF_FRAGGAR1.wad"
