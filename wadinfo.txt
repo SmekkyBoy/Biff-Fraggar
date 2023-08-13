@@ -63,6 +63,7 @@ D_E1M6
 D_E1M9
 D_INTRO
 D_INTER
+D_VICTOR
 
 # List of Pictures (with insertion point)
 [graphics]
