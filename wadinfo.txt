@@ -218,6 +218,11 @@ PISGA0	-126	-103
 PISGB0	-113	-90
 PISGC0	-124	-95
 
+# List of flats
+[flats]
+AQF067
+FLOOR0_3
+
 # List of patches
 [patches]
 WOLF7
@@ -228,6 +233,7 @@ WALL50_2
 WALL51_3
 WALL51_1
 WALL51_2
+RW23_4
 
 [lumps]
 DEHACKED
