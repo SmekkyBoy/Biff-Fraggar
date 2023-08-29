@@ -1,6 +1,5 @@
 This WAD is missing maps for:
-E1M2 - E1M3
-E1M5 - E1M9
+E1M5 - E1M8
 Episode 2
 Episode 3
 Episode 4
