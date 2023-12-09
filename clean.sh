@@ -1,0 +1,2 @@
+rm BIFF_FRAGGAR1.wad
+rm BIFF_FRAGGAR2.wad
