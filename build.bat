@@ -1,1 +1,1 @@
-deutex\WINDOWS\deutex.exe -doom deutex\ -make BIFF_FRAGGAR1.wad
+deutex\WINDOWS\deutex.exe -doom deutex\ -make wadinfo_biff1.txt BIFF_FRAGGAR1.wad
