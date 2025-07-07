@@ -1,0 +1,1 @@
+GitHub Actions is very stupid so we have to include the Windows build of Deutex. Too bad!
