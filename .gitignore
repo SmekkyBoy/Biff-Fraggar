@@ -1,2 +1,12 @@
 BIFF_FRAGGAR1.wad
 BIFF_FRAGGAR2.wad
+*.bak
+*.backup1
+*.backup2
+*.backup3
+*.autosave1
+*.autosave2
+*.autosave3
+*.autosave4
+*.autosave5
+*.dbs
