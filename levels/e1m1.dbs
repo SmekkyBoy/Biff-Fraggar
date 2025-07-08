@@ -1,0 +1,97 @@
+type = "Doom Builder Map Settings Configuration";
+gameconfig = "Doom_DoomDoom.cfg";
+strictpatches = 0;
+
+maps
+{
+	
+	E1M1
+	{
+		
+		grid
+		{
+			backscalex = 100;
+			gridoriginy = 0;
+			background = "";
+			backoffsety = 0;
+			gridoriginx = 0;
+			backoffsetx = 0;
+			gridrotate = 0;
+			gridsize = 32;
+			backscaley = 100;
+			backsource = 0;
+		}
+		viewpositionx = 345.2708f;
+		viewscale = 0.278183f;
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			stderriserror = true;
+			exitcodeiserror = true;
+		}
+		defaultceiltexture = "F_SKY1";
+		overridemiddletexture = false;
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			stderriserror = true;
+			exitcodeiserror = true;
+		}
+		overrideceiltexture = false;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			stderriserror = true;
+			exitcodeiserror = true;
+		}
+		customfloorheight = 0;
+		custombrightness = 196;
+		overridefloortexture = false;
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			stderriserror = true;
+			exitcodeiserror = true;
+		}
+		overridebottomtexture = false;
+		overrideceilheight = false;
+		uselongtexturenames = false;
+		defaultwalltexture = "AQMETL22";
+		overridefloorheight = false;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "/home/hueffer/Doom/freedoom1.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+			
+			resource1
+			{
+				type = 0;
+				location = "/home/hueffer/Biff-Fraggar/BIFF_FRAGGAR2.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		defaultbottomtexture = "AQMETL22";
+		overridebrightness = false;
+		viewpositiony = 111.2822f;
+		customceilheight = 128;
+		defaultfloortexture = "AQF067";
+		overridetoptexture = false;
+		defaulttoptexture = "AQMETL22";
+	}
+}
