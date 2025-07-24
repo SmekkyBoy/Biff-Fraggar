@@ -1,4 +1,4 @@
-## BIFF FRAGGAR'S LIBRE ADVENTURE
+## BIFF FRAGGAR
 
 Biff Fraggar is a project to make a FOSS replacement for the Ultimate Doom and Doom 2 IWADs, in a similar vein to Freedoom, but without a focus on compatibility or replacement, and moreso just to make a standalone libre game.
 
